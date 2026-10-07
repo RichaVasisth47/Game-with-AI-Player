@@ -1,0 +1,16 @@
+# PyCharm specific files
+.idea/
+
+# Python compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# Operating system junk files
+.DS_Store
+Thumbs.db
